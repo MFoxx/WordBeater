@@ -8,4 +8,4 @@ Run index.html and write display words before the time runs out
 1.1
 
 ### Disclaimer
-This product is based on simular one of @bradtraversy
+This product is based on simular one by @bradtraversy
